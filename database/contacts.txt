@@ -1,5 +1,3 @@
-{"first_name": "john", "surname": "doe", "email": "john@doe.com", "phone_number": "123123123", "address": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."}
 {"first_name": "sarah", "surname": "yelf", "email": "sarah@yelf.com", "phone_number": "123123123", "address": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."}
 {"first_name": "alex", "surname": "fohr", "email": "alex@fohr.com", "phone_number": "123123123", "address": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."}
-{"first_name": "sam", "surname": "pink", "email": "sam@pink.com", "phone_number": "123123123", "address": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."}
 {"first_name": "sarah", "surname": "light", "email": "sarah@light.com", "phone_number": "123123123", "address": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."}
