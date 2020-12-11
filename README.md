@@ -1,2 +1,5 @@
 # the-amazing-contact-book
+
 Simple terminal app done in Python for a class
+
+[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/rby3z3OnJH7uku2q4fhFMo4Ki)
